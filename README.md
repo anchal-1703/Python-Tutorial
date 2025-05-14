@@ -29,11 +29,10 @@ python-tutorial/
 ## 🚀 Getting Started
 
 1. Clone this repo:
-   ```bash
+```bash
    git clone https://github.com/your-username/python-tutorial.git
    cd python-tutorial
-   
-  ```
+```
 2.Run Python files:
 
 ```bash
@@ -41,5 +40,5 @@ python filename.py
 ```
 ---
 
-#🤝 Contributing
+# 🤝 Contributing
 Contributions, suggestions, and improvements are welcome! Feel free to fork the repo and submit a pull request.
